@@ -1,7 +1,1 @@
-# This is the official GitHub organization for Via
-
-## What is Via?
-Via is a modern operating system developed in C. It aims for simplicity and usability.
-
-## How may i contribute?
-Email our Outlook listed on this page.
+# Via is now an idividual project because of my team members being rude to me, and this was originally a solo project. Bye Kap, and please be nice
