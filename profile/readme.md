@@ -1,1 +1,1 @@
-# This is basically a cool operating system
+# The most flexible operating system ever
