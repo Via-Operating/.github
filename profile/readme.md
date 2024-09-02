@@ -7,7 +7,7 @@ You can download vOS on our [website](https://via-operating.github.io/)
 https://via-operating.github.io/
 Or you can use [our Sourceforge](https://sourceforge.net/projects/vOS/) for downloads, updates and more.
 
-[![Download vOS](https://via-operating.github.io/files/images/ViaLogo.png)](https://via-operating.github.io/pages/downloads)
+[![Download vOS](https://via-operating.github.io/files/images/vOSLogo.png)](https://via-operating.github.io/pages/downloads)
 
 [![Download vOS in Sourceforge](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/vOS/files/latest/download)
 
